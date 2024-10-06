@@ -19,6 +19,7 @@ nav {
   
   ;
 }
+
 .main {
   background-color: blueviolet;
   width: 80%;
@@ -66,4 +67,26 @@ nav {
 }
 h3 {
   font-size: 30;
+}
+.project{
+  background-color: blueviolet;
+  width: 80%;
+  text-align: center;
+  margin: 0 auto;
+  box-shadow: 0 0 12px -2px black;
+
+}
+.projecttext {
+  text-align: left;
+  font-size: 20;
+}
+.projectimg {
+  float: right;
+  width: 20%;
+}
+.projtitle {
+  text-align: left;
+  border: solid;
+  border-color: grey;
+  border-width: 3px;
 }
