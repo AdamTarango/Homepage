@@ -35,9 +35,35 @@ nav {
   background-color: blue;
 
   text-align: center;
-  /* margin-top: 30px; */
   box-shadow: 0 0 12px -2px black;
   margin: 0 auto;
   width: 80%;
   margin-top: 50px;
+}
+.subhead {
+  text-align: center;
+  background-color: blueviolet;
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 15px;
+  box-shadow: 0 0 12px -2px black;
+}
+.about {
+  background-color: blueviolet;
+  width: 80%;
+  text-align: center;
+  margin: 0 auto;
+  box-shadow: 0 0 12px -2px black;
+
+}
+.abouttext {
+  text-align: right;
+  font-size: 20
+}
+.aboutimg {
+  float: left;
+  width: 20%;
+}
+h3 {
+  font-size: 30;
 }
